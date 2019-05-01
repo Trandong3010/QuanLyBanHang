@@ -1,0 +1,10 @@
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\DataAccess.dll.config
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\DataAccess.dll
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\DataAccess.pdb
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\EntityFramework.dll
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\EntityFramework.xml
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\obj\Debug\DataAccess.csprojResolveAssemblyReference.cache
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\obj\Debug\DataAccess.dll
+D:\Các dự án đang làm\QuanLyBanHang\MilkTea\DataAccess\obj\Debug\DataAccess.pdb
