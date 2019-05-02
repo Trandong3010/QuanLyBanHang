@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-
+import { BrowserRouter as Router, Route, Link, NavLink } from 'react-router-dom';
 
 class Header extends Component {
     render() {
@@ -44,6 +44,13 @@ class Header extends Component {
                                     <i className="fa fa-search" />
                                 </a>
                             </li>
+
+                            
+                            <li className="nav-item dropdown hidden-caret">
+                                    <NavLink className="nav-link" to="/Milktea"><i className="fa fa-envelope" /> Xem trang </NavLink>
+                            </li>
+
+
                             <li className="nav-item dropdown hidden-caret">
                                 <a className="nav-link dropdown-toggle" href="#" id="messageDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                     <i className="fa fa-envelope" />
