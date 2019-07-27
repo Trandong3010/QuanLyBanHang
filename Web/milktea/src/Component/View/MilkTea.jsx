@@ -1,5 +1,6 @@
 import React, { Component } from 'react';
 import Navbar from './Navbar';
+import Slide from './Slide';
 
 class MilkTea extends Component {
     render() {
@@ -10,13 +11,12 @@ class MilkTea extends Component {
                         <Navbar />
                     </div>
                 </header>
-                <section id="hero">
-                    <div className="hero-container">
-                        <h1>Welcome to Regna</h1>
-                        <h2>We are team of talanted designers making websites with Bootstrap</h2>
-                        <a href="#about" className="btn-get-started">Get Started</a>
-                    </div>
+                <section id="Slide">
+                    <Slide/>
                 </section>
+                <main id="main">
+                    
+                </main>
             </div>
 
         );
